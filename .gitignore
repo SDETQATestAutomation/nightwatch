@@ -1,5 +1,6 @@
 /node_modules/
 reports/**
+*.xml
 *.log
 *.vs
 *.vscode
